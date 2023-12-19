@@ -1,7 +1,4 @@
 Hi I am kbo
 2023.12.19
-<<<<<<< HEAD
 remote repository
-=======
-test  remote repository
->>>>>>> 6fc4a86a8d6e3b2cd0ce3ccbe13931da961013db
+vscode commit push
